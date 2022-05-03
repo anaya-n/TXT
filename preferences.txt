@@ -1,0 +1,4 @@
+        favMovie: none
+	favSeries: KinnPorsche
+	favSeason: Autmn
+	CountryToVisit: South Korea
